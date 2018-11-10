@@ -1,0 +1,14 @@
+c:\users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\bin\Debug\GlobalTool.exe.config
+c:\users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\bin\Debug\GlobalTool.exe
+c:\users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\bin\Debug\GlobalTool.pdb
+c:\users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Debug\GlobalTool.csprojResolveAssemblyReference.cache
+c:\users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Debug\MainWindow.g.cs
+c:\users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Debug\App.g.cs
+c:\users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Debug\GlobalTool_MarkupCompile.cache
+c:\users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Debug\GlobalTool_MarkupCompile.lref
+c:\users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Debug\MainWindow.baml
+c:\users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Debug\GlobalTool.g.resources
+c:\users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Debug\GlobalTool.Properties.Resources.resources
+c:\users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Debug\GlobalTool.csproj.GenerateResource.Cache
+c:\users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Debug\GlobalTool.exe
+c:\users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Debug\GlobalTool.pdb

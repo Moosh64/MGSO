@@ -1,0 +1,14 @@
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Debug\MGSO.csprojResolveAssemblyReference.cache
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Debug\MainWindow.g.cs
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Debug\App.g.cs
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Debug\MainWindow.baml
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Debug\MGSO.csproj.GenerateResource.Cache
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\bin\Debug\MGSO.exe.config
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\bin\Debug\MGSO.exe
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\bin\Debug\MGSO.pdb
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Debug\MGSO_MarkupCompile.cache
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Debug\MGSO_MarkupCompile.lref
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Debug\MGSO.g.resources
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Debug\MGSO.Properties.Resources.resources
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Debug\MGSO.exe
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Debug\MGSO.pdb

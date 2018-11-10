@@ -1,0 +1,13 @@
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\bin\Release\MGSO.exe.config
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\bin\Release\MGSO.exe
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\bin\Release\MGSO.pdb
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Release\MainWindow.g.cs
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Release\App.g.cs
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Release\MGSO_MarkupCompile.cache
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Release\MGSO_MarkupCompile.lref
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Release\MainWindow.baml
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Release\MGSO.g.resources
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Release\MGSO.Properties.Resources.resources
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Release\MGSO.csproj.GenerateResource.Cache
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Release\MGSO.exe
+C:\Users\64pok\Documents\Visual Studio 2015\Projects\MGSO\MGSO\obj\Release\MGSO.pdb

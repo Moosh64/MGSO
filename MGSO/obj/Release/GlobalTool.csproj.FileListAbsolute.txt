@@ -1,0 +1,13 @@
+C:\Users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\bin\Release\GlobalTool.exe.config
+C:\Users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\bin\Release\GlobalTool.exe
+C:\Users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\bin\Release\GlobalTool.pdb
+C:\Users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Release\MainWindow.g.cs
+C:\Users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Release\App.g.cs
+C:\Users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Release\GlobalTool_MarkupCompile.cache
+C:\Users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Release\GlobalTool_MarkupCompile.lref
+C:\Users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Release\MainWindow.baml
+C:\Users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Release\GlobalTool.g.resources
+C:\Users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Release\GlobalTool.Properties.Resources.resources
+C:\Users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Release\GlobalTool.csproj.GenerateResource.Cache
+C:\Users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Release\GlobalTool.exe
+C:\Users\64pok\documents\visual studio 2015\Projects\GlobalTool\GlobalTool\obj\Release\GlobalTool.pdb

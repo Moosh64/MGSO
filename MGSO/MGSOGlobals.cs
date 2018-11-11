@@ -636,7 +636,7 @@ namespace MGSO
         {
             //New line character. This has been changed in the past, 
             //so I did this in case for whatever reason I have to change it again.
-            string nl = "\n"; 
+            string nl = "\r\n"; 
 
             tb.Text = "";
             //First add DECLARATION tags to the text box
@@ -730,7 +730,7 @@ namespace MGSO
                     ifStatement = true;
                 }
             }
-            tb.Text = String.Join("\n", lines);
+            tb.Text = String.Join("\r\n", lines);
         }
         //Returns if the script has a unique name
         public static bool IsScriptNameUnique(ListBox lb, string name)

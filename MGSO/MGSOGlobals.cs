@@ -150,7 +150,8 @@ namespace MGSO
                     j = FindStartingSubstringIndex(line, "global script");
                     if (j > -1)
                     {
-                        potentialGlobalScripts.Add(FindSubstringAt(line, j));
+                        //Replace carriage return to prevent a bug recognizing script names
+                        potentialGlobalScripts.Add(FindSubstringAt(line.Replace("\r", ""), j));
                         numGlobals++;
                     }
                 }

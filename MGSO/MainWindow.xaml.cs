@@ -175,7 +175,7 @@ namespace MGSO
                     else  if(count== MGSOGlobals.potentialGlobalScripts.Count) //Last script needs an and
                     {
                         if(count==2) //The second script in a list of two doesn't need a comma seperating it
-                            test += "and " + s;
+                            test += " and " + s;
                         else
                             test += ", and " + s;
                     }
